@@ -1,0 +1,30 @@
+.arrow-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: black;
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.arrow-button:hover {
+    color: gray
+}
+
+.arrow-button .arrow {
+    margin-left: 10px;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid black;
+}
+
+.arrow-button:hover .arrow {
+    border-top-color: 6px gray; /* Change arrow color on hover */
+}
