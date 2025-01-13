@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/financial_data_filtering_app/static/css/main.c27f27cd.css",
+    "main.js": "/financial_data_filtering_app/static/js/main.8e4fb2b4.js",
+    "index.html": "/financial_data_filtering_app/index.html",
+    "main.c27f27cd.css.map": "/financial_data_filtering_app/static/css/main.c27f27cd.css.map",
+    "main.8e4fb2b4.js.map": "/financial_data_filtering_app/static/js/main.8e4fb2b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27f27cd.css",
+    "static/js/main.8e4fb2b4.js"
+  ]
+}
